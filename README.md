@@ -20,4 +20,4 @@ Criei um menu que ao ser clicado ocupa toda a largura da tela. Isso é interessa
 ___
 
 <h2 align="center">Viewport resposiva</h2>
-<img src="./tela02.gif" alt="Gif de uma página starbucks "
+<img src="./tela02.gif" alt="Gif de uma página starbucks ">
