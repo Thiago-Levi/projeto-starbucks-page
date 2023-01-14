@@ -8,16 +8,16 @@ Criei um menu que ao ser clicado ocupa toda a largura da tela. Isso é interessa
 
 ## Tecnologias
 
-- HTML
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Gif de uma página starbucks ">
 - CSS
 - Javascript
 
 ---
 
-<h2 align="center">Viewport</h2>
+<h2 align="center">Versão Web</h2>
 
 <img src="./tela01.gif" alt="Gif de uma página starbucks "> 
 ___
 
-<h2 align="center">Viewport resposiva</h2>
+<h2 align="center">Versão Mobile</h2>
 <img src="./tela02.gif" alt="Gif de uma página starbucks ">
