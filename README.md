@@ -1,16 +1,15 @@
 # Projeto Starbucks Page ☕
 
-Página inspirada na Starbucks, feita com HTML, CSS e JS no menu responsivo.
+Implementei essa página inspirada na franquia Starbucks.
 
-Utilizei CSS grid no layout e em todas as seções da página e também CSS flexbox nas subseçoes. <br><br>
-Implementei o layout responsivo.<br><br>
-Criei um menu que ao ser clicado ocupa toda a largura da tela. Isso é interessante principalmente em dispositivos móveis.
+👀 Dá uma olhada aqui: <https://thiago-levi.github.io/projeto-starbucks-page>
+
+Infos extras: 
+- Implementei o layout responsivo.
+- Utilizei flexbox e grid no CSS
 
 ## Tecnologias
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Gif de uma página starbucks ">
-- CSS
-- Javascript
+<img alt="logo da linguagem HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img alt="logo da linguagem CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img alt="logo da linguagem Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
 ---
 
